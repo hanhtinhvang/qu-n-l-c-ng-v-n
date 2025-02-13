@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/username/quan-ly-cong-van.git
+git remote add origin https://github.com/hanhtinhvang/qu-n-l-c-ng-v-n/quan-ly-cong-van.git
 git push -u origin main
